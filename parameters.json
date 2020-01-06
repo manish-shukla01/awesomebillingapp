@@ -5,8 +5,11 @@
         "storageAccounts_billingdataforanalysis_name": {
             "value": null
         },
-        "regionname": {
-            "value": "ukwest"
+        "regioname":{
+            "value":"ukwest",
+            "type":"string",
+            "allowedValues":["ukwest","manish"]
         }
+
     }
 }
