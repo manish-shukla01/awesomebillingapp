@@ -9,7 +9,7 @@
         "regioname":{
             "defaultValue":"ukwest",
             "type":"string",
-            "allowedValues":["ukwest"]
+            "allowedValues":["ukwest","manish"]
         }
 
     },
