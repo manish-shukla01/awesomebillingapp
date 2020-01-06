@@ -8,7 +8,7 @@
         "regioname":{
             "value":"ukwest",
             "type":"string",
-            "allowedValues":["ukwest","manish"]
+            "allowedValues":["ukwest","northeurope"]
         }
 
     }
